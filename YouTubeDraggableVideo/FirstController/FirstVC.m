@@ -212,7 +212,7 @@
 
     
     
-    [self showSecondController];
+   
 }
 
 #pragma mark -
