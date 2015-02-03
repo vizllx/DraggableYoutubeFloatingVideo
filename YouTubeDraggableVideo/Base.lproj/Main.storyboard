@@ -557,7 +557,7 @@
         </scene>
     </scenes>
     <resources>
-        <image name="DownArrow" width="206" height="1"/>
-        <image name="profilePhoto.png" width="90" height="90"/>
+        <image name="DownArrow" width="17" height="17"/>
+        <image name="profilePhoto.png" width="100" height="100"/>
     </resources>
 </document>
