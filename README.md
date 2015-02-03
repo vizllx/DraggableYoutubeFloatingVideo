@@ -1,6 +1,6 @@
 # DraggableYoutubeFloatingVideo
 
-DraggableYoutubeFloatingVideo allows you to play videos on a floating mini window at the bottom of your screen from sites like YouTube, Vimeo & Facebook , yes you have to specify URL for that. 
+DraggableYoutubeFloatingVideo allows you to play videos on a floating mini window at the bottom of your screen from sites like YouTube, Vimeo & Facebook or custom video url , yes you have to specify URL for that. 
 
 Usage
 -----
