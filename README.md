@@ -15,3 +15,7 @@ Screenshot
 ------------
 
  ![Output sample](https://github.com/vizllx/DraggableYoutubeFloatingVideo/raw/master/Screenshot.gif)
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/vizllx/draggableyoutubefloatingvideo/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
