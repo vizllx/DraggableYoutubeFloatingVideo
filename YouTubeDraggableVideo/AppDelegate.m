@@ -1,9 +1,9 @@
 //
 //  AppDelegate.m
-//  YouTubeDraggableVideo
+//  test
 //
-//  Created by Sandeep Mukherjee on 02/02/15.
-//  Copyright (c) 2015 Sandeep Mukherjee. All rights reserved.
+//  Created by Takuya Okamoto on 2015/06/19.
+//  Copyright (c) 2015年 Uniface. All rights reserved.
 //
 
 #import "AppDelegate.h"

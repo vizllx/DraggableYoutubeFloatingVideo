@@ -11,7 +11,7 @@
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
 		<key>C0796BA5C0F25FE444F34B630D9B7AA6F9BEA0B4</key>
-		<string>https://github.com/vizllx/DraggableYoutubeFloatingVideo.git</string>
+		<string>https://github.com/entotsu/DraggableYoutubeFloatingVideo.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
 	<string>YouTubeDraggableVideo.xcodeproj</string>
@@ -21,7 +21,7 @@
 		<string>../..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
-	<string>https://github.com/vizllx/DraggableYoutubeFloatingVideo.git</string>
+	<string>https://github.com/entotsu/DraggableYoutubeFloatingVideo.git</string>
 	<key>IDESourceControlProjectVersion</key>
 	<integer>111</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
@@ -34,7 +34,7 @@
 			<key>IDESourceControlWCCIdentifierKey</key>
 			<string>C0796BA5C0F25FE444F34B630D9B7AA6F9BEA0B4</string>
 			<key>IDESourceControlWCCName</key>
-			<string>YouTubeDraggableVideo</string>
+			<string>DraggableYoutubeFloatingVideo</string>
 		</dict>
 	</array>
 </dict>
